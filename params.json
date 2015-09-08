@@ -1,1 +1,1 @@
-{"name":"Slideout","tagline":"","body":"# SlideOut\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Slideout","tagline":"","body":"### Default direction accepts int (0 - 3)\r\n* Left = 0;\r\n* Right = 1;\r\n* Up = 2;\r\n* Down = 3;\r\n\r\n_**$(element).slide({ show: false, duration: 1000, defaultdirection: 3, random: true });**_","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
